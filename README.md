@@ -1,6 +1,6 @@
 # The Heist
 
-![TheHeist](https://user-images.githubusercontent.com/106875994/230658099-85fb8da9-db88-42b5-b68d-3525154b7d8c.png)
+![TheHeist](https://user-images.githubusercontent.com/106875994/230658315-bcd42b27-6703-4402-879c-ce081f92e0f9.png)
 
 ## Project Description
 
